@@ -51,7 +51,11 @@ members and expected to integral to the safety program. Feedback is
 encouraged as continual improvement is a paramount goal. 
  
 ## Job Roles and Responsibilities 
- 
+* Planning, data entry, mapping and technical reporting. Use and development of scripts in R and other programming languages.
+* Planning for logistics and equipment. Participating in and conducting field programs in freshwater aquatic (i.e. fish and fish habitat assessments, fish salvage, water quality, benthic invertebrates) and terrestrial surveys for various types of projects.
+* Assisting with identification and implementation of safety measures/documentation for field programs including COVID-19 policies and safe work procedures.
+* Assisting with office-based proposal efforts, administration, background research and communications.
+
 ### Right to refuse work and report unsafe conditions {#right-to-refuse-work-and-report-unsafe-conditions .Style1} 
  
 If you feel the work as planned is unsafe, refuse to do it! Let's 

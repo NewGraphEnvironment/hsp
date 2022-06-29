@@ -4,18 +4,7 @@
  
 ### Check-in Procedures and Field Communications
 
-Call, text or in reach emergency contact each morning to share the plan for the day (i.e. name
-of roads and sites). Agree on a regular daily check in time and report
-position/provide updates.
-
-### Procedures for Failed Check-In 
-
-If phone call or in reach check-in is not
-received by agreed upon time, send text to in reach units, call or text cell phones of field crew members. If no
-response please call accommodations, then personal emergency contacts to see if they have heard
-anything. Wait 1 hour and text in reach, text or call cell phones and personal emergency contacts
-and accommodations again. Repeat after 2 hours - if no response then notify the RCMP of a
-missing persons in field.
+Check in procedures are set up so that someone is watching our back in the field. Call, text or in reach emergency contact to keep them updated on your plan ([emergency contact list](https://github.com/NewGraphEnvironment/onboarding/blob/main/data/template_contacts_safetylog.csv)). This information is kept in Field Safety Plans and there are set procedures about what the check in person is to do if they don't get confirmation that the field crews are home safe.  
  
 ## Hazard / close-call / incident reporting requirements and procedures {#hazard-close-call-incident-reporting-requirements-and-procedures .Style1} 
 
